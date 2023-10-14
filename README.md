@@ -1,7 +1,5 @@
 # Collections List
-Replica de projeto para o estudo e aprendizado sobre Collections List, com o auxilio da instrutora Camila Cavalcante
-
-https://github.com/cami-la
+Projeto para o estudo e aprendizado sobre Collections List.
 
 ## Assuntos
 - Operações básicas
@@ -10,3 +8,6 @@ https://github.com/cami-la
 
 ### Material
 https://github.com/cami-la/collections-java-api-2023/tree/master
+
+### Professora
+Camila Cavalcante - https://github.com/cami-la
